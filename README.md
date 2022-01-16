@@ -11,18 +11,23 @@ The project had us refactor a code that runs a stock analysis. The intent is to 
 
 
 “All Stocks Analysis Refactored” 2017
+
+![image](https://user-images.githubusercontent.com/96017493/149665385-84f07526-8b46-4ce9-aa8f-6ffd5b13e09e.png)
+
   
 
 
+“All Stocks Analysis” 2018	
 
-
-“All Stocks Analysis” 2018				
-
+![image](https://user-images.githubusercontent.com/96017493/149665395-6084305b-d05c-4685-8072-8fbbf53fe74b.png)
 
 
 
 
 “All Stocks Analysis Refactored” 2018
+
+![image](https://user-images.githubusercontent.com/96017493/149665410-fc65ef0f-805d-4d4a-8043-645667b55412.png)
+
   
 
 **Summary: **
