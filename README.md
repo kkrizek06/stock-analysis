@@ -6,6 +6,7 @@ The project had us refactor a code that runs a stock analysis. The intent is to 
 “All Stocks Analysis” 2017				
 
 
+![image](https://user-images.githubusercontent.com/96017493/149665360-88b24b35-0ab8-4d19-8415-8a4ca6dd34bc.png)
 
 
 
